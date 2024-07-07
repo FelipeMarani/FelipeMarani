@@ -8,8 +8,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMarani&layout=compact&hide_border=true&title_color=09c184&text_color=0a8967&bg_color=0d192b" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeMarani&bg_color=0d192b&color=09c184&line=0a8967&point=07f9a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/FelipeMarani?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=40&theme=dark_green&widget_size=small&dark=true)
+
+</div>
+
 
 
 <p align="center">
