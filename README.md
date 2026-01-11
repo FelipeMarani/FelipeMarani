@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=09c184&size=40&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Felipe+Silva;I'm+20+years+old;I'm+from+Brazil;I+majoring+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeMarani&show_icons=true&count_private=true&hide_border=true&title_color=09c184&icon_color=07f9a2&text_color=0a8967&bg_color=0d192b" alt="Felipe Jesus da Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMarani&layout=compact&hide_border=true&title_color=09c184&text_color=0a8967&bg_color=0d192b" />
+ 
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeMarani&bg_color=0d192b&color=09c184&line=0a8967&point=07f9a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeMarani&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
 </p>
 
 <div align="center"> 
@@ -40,4 +40,5 @@
 
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c5149&height=120&section=footer"/>
+
 
