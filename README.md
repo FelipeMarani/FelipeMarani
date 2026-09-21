@@ -8,7 +8,7 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeMarani&bg_color=0d192b&color=09c184&line=0a8967&point=07f9a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 
 
